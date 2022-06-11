@@ -1,0 +1,1199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="306232d0-1464-4bae-a460-caf9747a4e7b" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Project$Main.ic" NAME="Main Coverage Results" MODIFIED="1561814105008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/game/MVC/InfoHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="271">
+              <caret line="179" column="38" selection-start-line="179" selection-start-column="38" selection-end-line="179" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#3696#3697#0" expanded="true" />
+                <element signature="e#3733#3734#0" expanded="true" />
+                <element signature="e#3779#3780#0" expanded="true" />
+                <element signature="e#3830#3831#0" expanded="true" />
+                <element signature="e#3870#3871#0" expanded="true" />
+                <element signature="e#3914#3915#0" expanded="true" />
+                <element signature="e#3944#3945#0" expanded="true" />
+                <element signature="e#3989#3990#0" expanded="true" />
+                <element signature="e#7665#7666#0" expanded="true" />
+                <element signature="e#7705#7706#0" expanded="true" />
+                <element signature="e#7747#7748#0" expanded="true" />
+                <element signature="e#7785#7786#0" expanded="true" />
+                <element signature="e#8001#8002#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/game/MVC/Logic.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="514" column="15" lean-forward="true" selection-start-line="514" selection-start-column="15" selection-end-line="514" selection-end-column="15" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/game/MVC/UIPanel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="221" column="34" selection-start-line="221" selection-start-column="34" selection-end-line="221" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/game/MVC/View.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="129" column="70" lean-forward="true" selection-start-line="129" selection-start-column="70" selection-end-line="129" selection-end-column="70" />
+              <folding>
+                <element signature="e#1945#1946#0" expanded="true" />
+                <element signature="e#2002#2003#0" expanded="true" />
+                <element signature="e#3894#4252#0" expanded="true" />
+                <element signature="e#4251#4252#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/game/network/PlayerClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/game/enemy/chickenGroups/ChickenGroup.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="26" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
+              <folding>
+                <element signature="e#1645#1646#0" expanded="true" />
+                <element signature="e#1681#1682#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/game/MVC/GamePanel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-122">
+              <caret line="352" selection-start-line="352" selection-end-line="352" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/game/network/PlayerServer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="36" column="16" lean-forward="true" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/game/network/UserClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="35" selection-start-line="35" selection-end-line="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/game/MVC/SoundPlayer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>s</find>
+      <find>set</find>
+      <find>newChicken</find>
+      <find>pauseM</find>
+      <find>27</find>
+      <find>L</find>
+      <find>updateTime</find>
+      <find>System</find>
+      <find>INfoH</find>
+      <find>clip</find>
+      <find>playSou</find>
+      <find>.get(&quot;</find>
+      <find>p</find>
+      <find>timeU</find>
+      <find>timeUnit</find>
+      <find>put</find>
+      <find>deActiveTime == 0 &amp;&amp; shouldShoot &amp;&amp; !plane.isHeatApex()</find>
+      <find>time</find>
+      <find>secondsP</find>
+      <find>loadIm</find>
+      <find>loadI</find>
+      <find>fileChos</find>
+      <find>kind</find>
+      <find>shootr</find>
+      <find>read</find>
+      <find>shootRockets</find>
+      <find>f</find>
+      <find>addPower</find>
+      <find>null</find>
+      <find>toObject</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/main</dir>
+      <dir>$PROJECT_DIR$/src/main/images</dir>
+      <dir>$PROJECT_DIR$/src/main/game</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/game/update/UpdateIO.java" />
+        <option value="$PROJECT_DIR$/src/main/game/Closable.java" />
+        <option value="$PROJECT_DIR$/src/main/MultiMain.java" />
+        <option value="$PROJECT_DIR$/src/main/game/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/game/network/Client.java" />
+        <option value="$PROJECT_DIR$/src/main/game/network/Player.java" />
+        <option value="$PROJECT_DIR$/src/main/game/network/Visitor.java" />
+        <option value="$PROJECT_DIR$/src/main/game/network/User.java" />
+        <option value="$PROJECT_DIR$/src/main/game/network/ServerObject.java" />
+        <option value="$PROJECT_DIR$/src/main/game/network/userServer/VisitorServer.java" />
+        <option value="$PROJECT_DIR$/src/main/game/network/NetworkHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/game/MVC/HoverButton.java" />
+        <option value="$PROJECT_DIR$/src/main/game/network/userServer/PlayerServer.java" />
+        <option value="$PROJECT_DIR$/src/main/game/network/userServer/UserServer.java" />
+        <option value="$PROJECT_DIR$/src/main/game/network/VisitorServer.java" />
+        <option value="$PROJECT_DIR$/src/main/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/game/stuff/Plane.java" />
+        <option value="$PROJECT_DIR$/src/main/game/MVC/AttributeAdder.java" />
+        <option value="$PROJECT_DIR$/src/main/game/network/PlayerClient.java" />
+        <option value="$PROJECT_DIR$/src/main/game/network/VisitorClient.java" />
+        <option value="$PROJECT_DIR$/src/main/game/enemy/boss/UsualBoss.java" />
+        <option value="$PROJECT_DIR$/src/main/game/enemy/boss/Boss.java" />
+        <option value="$PROJECT_DIR$/src/main/game/enemy/chickenGroups/RectangleChickenGroup.java" />
+        <option value="$PROJECT_DIR$/src/main/game/enemy/chickenGroups/SuicideChickenGroup.java" />
+        <option value="$PROJECT_DIR$/src/main/game/enemy/chickenGroups/SurroundChickenGroup.java" />
+        <option value="$PROJECT_DIR$/src/main/game/stuff/Kind.java" />
+        <option value="$PROJECT_DIR$/src/main/game/TaskScheduler.java" />
+        <option value="$PROJECT_DIR$/src/main/game/network/NetworkObject.java" />
+        <option value="$PROJECT_DIR$/src/main/game/enemy/chickenGroups/CircleChickenGroup.java" />
+        <option value="$PROJECT_DIR$/src/main/game/network/Server.java" />
+        <option value="$PROJECT_DIR$/src/main/game/network/UserClient.java" />
+        <option value="$PROJECT_DIR$/src/main/game/enemy/chickenGroups/Chicken.java" />
+        <option value="$PROJECT_DIR$/src/main/game/MVC/SingleHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/game/enemy/boss/RoundPageBosss.java" />
+        <option value="$PROJECT_DIR$/src/main/game/enemy/boss/RoundPageBoss.java" />
+        <option value="$PROJECT_DIR$/src/main/game/MVC/Controller.java" />
+        <option value="$PROJECT_DIR$/src/main/game/MVC/MultiPlayerPanel.java" />
+        <option value="$PROJECT_DIR$/src/main/game/MVC/UIPanel.java" />
+        <option value="$PROJECT_DIR$/src/main/game/MVC/SoundPlayer.java" />
+        <option value="$PROJECT_DIR$/src/main/game/enemy/chickenGroups/RoundPageChickenGroup.java" />
+        <option value="$PROJECT_DIR$/src/main/game/MVC/RankPanel.java" />
+        <option value="$PROJECT_DIR$/src/main/game/enemy/chickenGroups/ChickenGroup.java" />
+        <option value="$PROJECT_DIR$/src/main/game/MVC/Logic.java" />
+        <option value="$PROJECT_DIR$/src/main/game/network/PlayersPanel.java" />
+        <option value="$PROJECT_DIR$/src/main/game/network/UserServer.java" />
+        <option value="$PROJECT_DIR$/src/main/game/network/PlayerServer.java" />
+        <option value="$PROJECT_DIR$/src/main/game/MVC/FeatureAdder.java" />
+        <option value="$PROJECT_DIR$/src/main/game/MVC/GamePanel.java" />
+        <option value="$PROJECT_DIR$/src/main/game/enemy/chickenGroups/CircleChicken.java" />
+        <option value="$PROJECT_DIR$/src/main/game/MVC/View.java" />
+        <option value="$PROJECT_DIR$/src/main/game/MVC/InfoHandler.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="12" />
+    <option name="y" value="23" />
+    <option name="width" value="1260" />
+    <option name="height" value="682" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+              <item name="resource" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="game" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="game" type="462c0819:PsiDirectoryNode" />
+              <item name="MVC" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564767197890" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="main.game.enemy" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resource" />
+      <recent name="$PROJECT_DIR$/src/main/game/MVC/panels" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" singleton="false" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="main.Main" />
+      <module name="Project" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultiMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.MultiMain" />
+      <module name="Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.MultiMain" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.MultiMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="306232d0-1464-4bae-a460-caf9747a4e7b" name="Default Changelist" comment="" />
+      <created>1552138398285</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552138398285</updated>
+      <workItem from="1552138400032" duration="5744000" />
+      <workItem from="1552216042475" duration="1980000" />
+      <workItem from="1552316757495" duration="3802000" />
+      <workItem from="1552397121484" duration="9213000" />
+      <workItem from="1552455895445" duration="4875000" />
+      <workItem from="1552545564298" duration="1800000" />
+      <workItem from="1552650445630" duration="5855000" />
+      <workItem from="1552795005527" duration="6455000" />
+      <workItem from="1552897794966" duration="434000" />
+      <workItem from="1552969703335" duration="3411000" />
+      <workItem from="1552974059454" duration="3616000" />
+      <workItem from="1552978652339" duration="1821000" />
+      <workItem from="1553054868005" duration="3651000" />
+      <workItem from="1553059466837" duration="2643000" />
+      <workItem from="1553145759855" duration="7410000" />
+      <workItem from="1553231369467" duration="6651000" />
+      <workItem from="1553238972452" duration="166000" />
+      <workItem from="1553239142150" duration="382000" />
+      <workItem from="1553316190621" duration="848000" />
+      <workItem from="1553317378131" duration="1867000" />
+      <workItem from="1553404993351" duration="5578000" />
+      <workItem from="1553490042356" duration="5682000" />
+      <workItem from="1553577091014" duration="534000" />
+      <workItem from="1553577960794" duration="3358000" />
+      <workItem from="1553584990900" duration="120000" />
+      <workItem from="1553658819120" duration="8184000" />
+      <workItem from="1553749651993" duration="5297000" />
+      <workItem from="1553779892669" duration="5600000" />
+      <workItem from="1553835170062" duration="4196000" />
+      <workItem from="1553855588786" duration="3737000" />
+      <workItem from="1553920808560" duration="5178000" />
+      <workItem from="1554008649654" duration="3297000" />
+      <workItem from="1554049238842" duration="422000" />
+      <workItem from="1554051350661" duration="2430000" />
+      <workItem from="1554112481964" duration="9558000" />
+      <workItem from="1554178468568" duration="1855000" />
+      <workItem from="1554269407537" duration="2950000" />
+      <workItem from="1554273130318" duration="4053000" />
+      <workItem from="1555325722993" duration="5685000" />
+      <workItem from="1555498521575" duration="2160000" />
+      <workItem from="1555508442952" duration="436000" />
+      <workItem from="1555648493846" duration="5243000" />
+      <workItem from="1555660049574" duration="79000" />
+      <workItem from="1555832208017" duration="4687000" />
+      <workItem from="1555839742899" duration="635000" />
+      <workItem from="1556265229620" duration="4870000" />
+      <workItem from="1556365131222" duration="6149000" />
+      <workItem from="1556447797188" duration="5294000" />
+      <workItem from="1556631334065" duration="8262000" />
+      <workItem from="1556714155426" duration="4975000" />
+      <workItem from="1556721348963" duration="3000" />
+      <workItem from="1556721397915" duration="3000" />
+      <workItem from="1556723649710" duration="71000" />
+      <workItem from="1557144190542" duration="8229000" />
+      <workItem from="1557227719706" duration="3243000" />
+      <workItem from="1557315974411" duration="9785000" />
+      <workItem from="1557465753695" duration="1139000" />
+      <workItem from="1557553638388" duration="5894000" />
+      <workItem from="1557562579922" duration="3140000" />
+      <workItem from="1557568832394" duration="732000" />
+      <workItem from="1557891612755" duration="1752000" />
+      <workItem from="1558007345406" duration="4606000" />
+      <workItem from="1558066080109" duration="4976000" />
+      <workItem from="1558273976430" duration="4477000" />
+      <workItem from="1558347678003" duration="5606000" />
+      <workItem from="1558418180884" duration="6188000" />
+      <workItem from="1558493991176" duration="8071000" />
+      <workItem from="1558585193310" duration="6097000" />
+      <workItem from="1558669993798" duration="7456000" />
+      <workItem from="1558783263619" duration="1979000" />
+      <workItem from="1558786377329" duration="7489000" />
+      <workItem from="1558857817847" duration="461000" />
+      <workItem from="1558933624762" duration="6664000" />
+      <workItem from="1558941965837" duration="4905000" />
+      <workItem from="1559022155623" duration="11806000" />
+      <workItem from="1559047198915" duration="6822000" />
+      <workItem from="1559099071821" duration="8050000" />
+      <workItem from="1559126278566" duration="377000" />
+      <workItem from="1559126908517" duration="8755000" />
+      <workItem from="1559188393097" duration="7744000" />
+      <workItem from="1559200441452" duration="2162000" />
+      <workItem from="1559222016479" duration="7024000" />
+      <workItem from="1559274888368" duration="11758000" />
+      <workItem from="1559396392677" duration="5182000" />
+      <workItem from="1559443321018" duration="10858000" />
+      <workItem from="1559474006920" duration="845000" />
+      <workItem from="1559560461801" duration="14375000" />
+      <workItem from="1559644499825" duration="10013000" />
+      <workItem from="1559702813970" duration="11352000" />
+      <workItem from="1559789306115" duration="8776000" />
+      <workItem from="1559963281481" duration="6407000" />
+      <workItem from="1559986536524" duration="9610000" />
+      <workItem from="1560049138037" duration="7960000" />
+      <workItem from="1560059909364" duration="11968000" />
+      <workItem from="1560081794562" duration="5269000" />
+      <workItem from="1560089079121" duration="7217000" />
+      <workItem from="1560097311575" duration="3000" />
+      <workItem from="1560097486293" duration="5049000" />
+      <workItem from="1560103636186" duration="706000" />
+      <workItem from="1560261555720" duration="3105000" />
+      <workItem from="1560310346211" duration="3591000" />
+      <workItem from="1560334432187" duration="5749000" />
+      <workItem from="1560420425759" duration="8811000" />
+      <workItem from="1560483294514" duration="116000" />
+      <workItem from="1560483821054" duration="9663000" />
+      <workItem from="1560568805996" duration="5037000" />
+      <workItem from="1560576238519" duration="6372000" />
+      <workItem from="1560586782244" duration="1866000" />
+      <workItem from="1560769979182" duration="2895000" />
+      <workItem from="1560773354911" duration="5658000" />
+      <workItem from="1560864974141" duration="67000" />
+      <workItem from="1560865049900" duration="214000" />
+      <workItem from="1560865473805" duration="225000" />
+      <workItem from="1560866426625" duration="2635000" />
+      <workItem from="1561037693305" duration="3933000" />
+      <workItem from="1561044529780" duration="546000" />
+      <workItem from="1561102352649" duration="10229000" />
+      <workItem from="1561178400559" duration="3830000" />
+      <workItem from="1561205311349" duration="5571000" />
+      <workItem from="1561259191333" duration="8881000" />
+      <workItem from="1561431614938" duration="5899000" />
+      <workItem from="1561693039767" duration="12612000" />
+      <workItem from="1561782312451" duration="243000" />
+      <workItem from="1561783155566" duration="482000" />
+      <workItem from="1561783729836" duration="8291000" />
+      <workItem from="1561797017143" duration="2982000" />
+      <workItem from="1561814192672" duration="593000" />
+      <workItem from="1561815064092" duration="2091000" />
+      <workItem from="1561865981235" duration="30559000" />
+      <workItem from="1561951145346" duration="23687000" />
+      <workItem from="1561992946620" duration="9712000" />
+      <workItem from="1562007080754" duration="486000" />
+      <workItem from="1562008761424" duration="7379000" />
+      <workItem from="1562016663618" duration="84000" />
+      <workItem from="1562125580634" duration="12726000" />
+      <workItem from="1562212747884" duration="14697000" />
+      <workItem from="1562301321961" duration="12789000" />
+      <workItem from="1562347511464" duration="869000" />
+      <workItem from="1562349840196" duration="1917000" />
+      <workItem from="1562413893629" duration="12411000" />
+      <workItem from="1562486185223" duration="1115000" />
+      <workItem from="1562488284664" duration="1088000" />
+      <workItem from="1562522066905" duration="2524000" />
+      <workItem from="1562555224783" duration="2561000" />
+      <workItem from="1562581291617" duration="1801000" />
+      <workItem from="1562775526564" duration="6616000" />
+      <workItem from="1562820038371" duration="2191000" />
+      <workItem from="1562843492371" duration="8376000" />
+      <workItem from="1562902848661" duration="17608000" />
+      <workItem from="1562990731099" duration="9562000" />
+      <workItem from="1563072080260" duration="1921000" />
+      <workItem from="1563077393570" duration="8579000" />
+      <workItem from="1563159703969" duration="1633000" />
+      <workItem from="1563161999070" duration="19000" />
+      <workItem from="1563162489635" duration="5141000" />
+      <workItem from="1563171589063" duration="47000" />
+      <workItem from="1563175732545" duration="368000" />
+      <workItem from="1563331778164" duration="2944000" />
+      <workItem from="1563432163622" duration="173000" />
+      <workItem from="1563432505085" duration="5930000" />
+      <workItem from="1563509735747" duration="10751000" />
+      <workItem from="1563523351748" duration="42000" />
+      <workItem from="1563593746157" duration="5692000" />
+      <workItem from="1563618553764" duration="1939000" />
+      <workItem from="1564059699310" duration="282000" />
+      <workItem from="1564211274311" duration="4714000" />
+      <workItem from="1564315677215" duration="1811000" />
+      <workItem from="1564384582165" duration="2268000" />
+      <workItem from="1564461288032" duration="11631000" />
+      <workItem from="1564645934806" duration="1010000" />
+      <workItem from="1564721012051" duration="859000" />
+      <workItem from="1564759793348" duration="1020000" />
+      <workItem from="1564762041713" duration="3477000" />
+      <workItem from="1564889650517" duration="445000" />
+      <workItem from="1564895382959" duration="1449000" />
+      <workItem from="1565022932315" duration="1998000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="855270000" />
+  </component>
+  <component name="TodoView" selected-index="1">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="12" y="23" width="1260" height="682" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49830508" visible="true" weight="0.26518884" />
+      <window_info id="Structure" order="1" sideWeight="0.5016949" side_tool="true" weight="0.52955663" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32881355" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.40508476" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32881355" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32881355" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32881355" />
+      <window_info anchor="bottom" id="Thumbnails" order="13" weight="0.32881355" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Database" order="5" weight="0.32922825" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32922825" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49830508" visible="true" weight="0.52955663" />
+      <window_info id="Structure" order="1" sideWeight="0.5016949" side_tool="true" weight="0.52955663" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32881355" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.40508476" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32881355" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32881355" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32881355" />
+      <window_info anchor="bottom" id="Thumbnails" order="13" weight="0.32881355" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Database" order="5" weight="0.32922825" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32922825" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/game/MVC/InfoHandler.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="335" column="4" selection-start-line="335" selection-start-column="4" selection-end-line="335" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/game/enemy/chickenGroups/RectangleChickenGroup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/src.zip!/java/awt/event/KeyEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="169" column="7" selection-start-line="169" selection-start-column="7" selection-end-line="229" selection-end-column="43" />
+          <folding>
+            <element signature="e#39153#39154#0" expanded="true" />
+            <element signature="e#39183#39184#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/src.zip!/javax/swing/JComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1524" column="33" selection-start-line="1524" selection-start-column="33" selection-end-line="1524" selection-end-column="33" />
+          <folding>
+            <element signature="e#58129#58130#0" expanded="true" />
+            <element signature="e#58180#58181#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/src.zip!/java/awt/Component.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="7546" column="78" lean-forward="true" selection-start-line="7546" selection-start-column="78" selection-end-line="7546" selection-end-column="78" />
+          <folding>
+            <element signature="e#278206#278207#0" expanded="true" />
+            <element signature="e#278261#278262#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/game/enemy/chickenGroups/Chicken.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-419">
+          <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/game/TaskScheduler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/src.zip!/javax/swing/JFileChooser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="1246" column="6" selection-start-line="1246" selection-start-column="6" selection-end-line="1246" selection-end-column="6" />
+          <folding>
+            <element signature="e#9257#9258#0" expanded="true" />
+            <element signature="e#9313#9314#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/game/network/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="91" column="5" selection-start-line="91" selection-start-column="5" selection-end-line="192" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/src.zip!/java/io/File.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="728" column="12" selection-start-line="728" selection-start-column="12" selection-end-line="728" selection-end-column="12" />
+          <folding>
+            <element signature="e#21135#21136#0" expanded="true" />
+            <element signature="e#21162#21163#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/src.zip!/java/net/URI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="415" column="2" lean-forward="true" selection-start-line="415" selection-start-column="2" selection-end-line="457" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/src.zip!/java/lang/reflect/Modifier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="70" column="7" lean-forward="true" selection-start-line="52" selection-start-column="26" selection-end-line="70" selection-end-column="7" />
+          <folding>
+            <element signature="e#5556#5557#0" expanded="true" />
+            <element signature="e#5600#5601#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="383" column="10" selection-start-line="383" selection-start-column="10" selection-end-line="383" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="637" column="7" lean-forward="true" selection-start-line="637" selection-start-column="7" selection-end-line="637" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/src.zip!/java/net/URL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="139" column="19" selection-start-line="139" selection-start-column="19" selection-end-line="139" selection-end-column="19" />
+          <folding>
+            <element signature="e#30877#30878#0" expanded="true" />
+            <element signature="e#30904#30905#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/src.zip!/javax/swing/JOptionPane.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="437" column="25" selection-start-line="437" selection-start-column="25" selection-end-line="437" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/game/MVC/Controller.class" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/src.zip!/javax/sound/sampled/Clip.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2665">
+          <caret line="221" column="16" selection-start-line="221" selection-start-column="16" selection-end-line="221" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/src.zip!/javax/sound/sampled/AudioSystem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="428" column="33" selection-start-line="410" selection-start-column="31" selection-end-line="428" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/game/enemy/boss/RoundPageBoss.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#100#101#0" expanded="true" />
+            <element signature="e#128#129#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/src.zip!/java/lang/ClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="423" selection-start-line="423" selection-end-line="423" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/src.zip!/java/nio/file/Files.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="1176" column="39" lean-forward="true" selection-start-line="1176" selection-start-column="39" selection-end-line="1176" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/src.zip!/java/io/FileOutputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="263" column="7" selection-start-line="263" selection-start-column="7" selection-end-line="263" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/game/MVC/MultiPlayerPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="21" column="43" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/game/MVC/RankPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="723">
+          <caret line="90" selection-start-line="90" selection-end-line="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/game/network/NetworkObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/game/stuff/Kind.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/game/stuff/KindPowerUp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/game/stuff/Rocket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="7" lean-forward="true" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/game/network/PlayersPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="930">
+          <caret line="72" column="12" selection-start-line="72" selection-start-column="12" selection-end-line="72" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/game/enemy/chickenGroups/RoundPageChickenGroup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="46" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/game/MVC/SingleHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="14" column="45" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/src.zip!/java/lang/reflect/Field.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="505" column="52" lean-forward="true" selection-start-line="505" selection-start-column="52" selection-end-line="505" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/src.zip!/java/net/URLClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="722" column="65" lean-forward="true" selection-start-line="722" selection-start-column="65" selection-end-line="722" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/src.zip!/java/util/jar/JarFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="70" column="25" selection-start-line="70" selection-start-column="25" selection-end-line="70" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/src.zip!/java/util/zip/ZipFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="50" column="14" lean-forward="true" selection-start-line="50" selection-start-column="14" selection-end-line="53" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/game/MVC/FeatureAdder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/game/enemy/chickenGroups/ChickenGroup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="26" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
+          <folding>
+            <element signature="e#1645#1646#0" expanded="true" />
+            <element signature="e#1681#1682#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/game/MVC/SoundPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/game/enemy/chickenGroups/CircleChicken.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/game/network/UserClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/game/network/UserServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="30" column="9" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/game/network/PlayerServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="36" column="16" lean-forward="true" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/game/MVC/GamePanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-122">
+          <caret line="352" selection-start-line="352" selection-end-line="352" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/game/enemy/chickenGroups/CircleChickenGroup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/game/network/PlayerClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/src.zip!/java/sql/PreparedStatement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="196" column="25" selection-start-line="196" selection-start-column="25" selection-end-line="196" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/game/MVC/UIPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="221" column="34" selection-start-line="221" selection-start-column="34" selection-end-line="221" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/game/MVC/View.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="129" column="70" lean-forward="true" selection-start-line="129" selection-start-column="70" selection-end-line="129" selection-end-column="70" />
+          <folding>
+            <element signature="e#1945#1946#0" expanded="true" />
+            <element signature="e#2002#2003#0" expanded="true" />
+            <element signature="e#3894#4252#0" expanded="true" />
+            <element signature="e#4251#4252#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/game/MVC/Logic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="514" column="15" lean-forward="true" selection-start-line="514" selection-start-column="15" selection-end-line="514" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/game/MVC/InfoHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="179" column="38" selection-start-line="179" selection-start-column="38" selection-end-line="179" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3696#3697#0" expanded="true" />
+            <element signature="e#3733#3734#0" expanded="true" />
+            <element signature="e#3779#3780#0" expanded="true" />
+            <element signature="e#3830#3831#0" expanded="true" />
+            <element signature="e#3870#3871#0" expanded="true" />
+            <element signature="e#3914#3915#0" expanded="true" />
+            <element signature="e#3944#3945#0" expanded="true" />
+            <element signature="e#3989#3990#0" expanded="true" />
+            <element signature="e#7665#7666#0" expanded="true" />
+            <element signature="e#7705#7706#0" expanded="true" />
+            <element signature="e#7747#7748#0" expanded="true" />
+            <element signature="e#7785#7786#0" expanded="true" />
+            <element signature="e#8001#8002#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Project</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>java</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
